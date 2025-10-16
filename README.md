@@ -12,7 +12,7 @@
 
 🕵️ Open Source Intelligence (OSINT)
 
-  Menbre association OSINT FR
+  Membre association OSINT FR
 
 🔐 Computer Security
 ```bash
