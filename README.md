@@ -10,9 +10,7 @@
                              *      .
 ```
 
-🕵️ Open Source Intelligence (OSINT)
-
-  Membre association OSINT FR
+🕵️  Membre association OSINT FR
 
 🔐 Computer Security
 ```bash
