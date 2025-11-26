@@ -2,7 +2,7 @@
                              *      .       .
                        .         .         . *
                         .      ▄█████████▄                 
-                             ███▀▀     ▀▀███               Life is short — spend your time wisely
+                             ███▀▀     ▀▀███               Life is short spend your time wisely
                         *   ███         ████               
                            ███    ░░    ███                🕵️  OSINT FR Association Member
 
