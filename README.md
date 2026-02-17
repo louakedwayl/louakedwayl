@@ -1,22 +1,7 @@
-<div align="center">
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&duration=5000&pause=2500&color=FFFFFF&center=true&width=435&lines=Life+is+short%2C+spend+your+time+wisely...)](https://git.io/typing-svg)
 
-
-[![Pacifico](https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&duration=5000&pause=2500&color=FFFFFF&center=true&width=435&lines=Life+is+short%2C+spend+your+time+wisely...)](https://git.io/typing-svg)
-
-[![Dancing Script](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&duration=5000&pause=2500&color=FFFFFF&center=true&width=435&lines=Life+is+short%2C+spend+your+time+wisely...)](https://git.io/typing-svg)
-
-[![Great Vibes](https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&duration=5000&pause=2500&color=FFFFFF&center=true&width=435&lines=Life+is+short%2C+spend+your+time+wisely...)](https://git.io/typing-svg)
-
-[![Sacramento](https://readme-typing-svg.demolab.com?font=Sacramento&weight=400&duration=5000&pause=2500&color=FFFFFF&center=true&width=500&lines=Life+is+short%2C+spend+your+time+wisely...)](https://git.io/typing-svg)
-
-[![Satisfy](https://readme-typing-svg.demolab.com?font=Satisfy&weight=400&duration=5000&pause=2500&color=FFFFFF&center=true&width=435&lines=Life+is+short%2C+spend+your+time+wisely...)](https://git.io/typing-svg)
-
-
-
-[![Contact](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&duration=1&pause=999999&color=FFFFFF&center=true&width=200&lines=CONTACT+ME)](https://git.io/typing-svg)
+![Contact](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&duration=1&pause=999999&color=FFFFFF&center=true&width=200&lines=Contact+Me)
 
 
 ## CONTACT ME
