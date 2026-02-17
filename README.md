@@ -8,9 +8,31 @@
 [![ProtonMail](https://img.shields.io/badge/Email-louakedwayl@protonmail.com-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:louakedwayl@protonmail.com)
 [![Root-Me](https://img.shields.io/badge/Root--Me-While-000000?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/louakedwayl)
 
+<br><br>
+
+![Projects](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&duration=1&pause=999999&color=FFFFFF&center=true&width=200&lines=Projects)
+
 </div>
 
-## Projects
+![Camagru](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&duration=1&pause=999999&color=FFFFFF&center=true&width=150&lines=Camagru)
 
-### Camagru
-![Camagru](./assets/camagru-preview.gif)
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="./assets/Camagru_layout.png" width="400" height="250">
+</td>
+<td align="center" width="50%">
+  <img src="./assets/Camagru_home.png" width="400" height="250">
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="./assets/Camagru_create.png" width="400" height="250">
+</td>
+<td align="center" width="50%">
+  <img src="./assets/Camagru_explorer.png" width="400" height="250">
+</td>
+</tr>
+</table>
+
+</div>
