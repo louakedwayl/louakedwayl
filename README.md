@@ -6,6 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wayl_Louaked-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louakedwayl)
 [![Mail](https://img.shields.io/badge/louakedwayl@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:louakedwayl@protonmail.com)
-[![Root-Me](https://img.shields.io/badge/Root--Me-Wayl-black?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/Wayl)
+[![Root-Me](https://img.shields.io/badge/Root--Me-Wayl-black?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/louakedewayl)
 
 </div>
