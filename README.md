@@ -19,10 +19,10 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="./assets/Camagru_home.png" width="400" height="250">
+  <img src="./assets/Camagru_layout.png" width="400" height="250">
 </td>
 <td align="center" width="50%">
-<img src="./assets/Camagru_explorer.png" width="400" height="250">
+  <img src="./assets/Camagru_home.png" width="400" height="250">
 </td>
 </tr>
 <tr>
@@ -30,7 +30,7 @@
 <img src="./assets/Camagru_create.png" width="400" height="250">
 </td>
 <td align="center" width="50%">
-<img src="./assets/Camagru_layout.png" width="400" height="250">
+  <img src="./assets/Camagru_explorer.png" width="400" height="250">
 </td>
 </tr>
 </table>
