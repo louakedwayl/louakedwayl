@@ -12,6 +12,9 @@
 
 ![Projects](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&duration=1&pause=999999&color=FFFFFF&center=true&width=200&lines=Projects)
 
+![Camagru](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&duration=1&pause=999999&color=FFFFFF&center=true&width=150&lines=Camagru)
+
+
 <table>
 <tr>
 <td align="center" width="50%">
