@@ -4,7 +4,7 @@
 
 ## 📬 CONTACT ME
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wayl_Louaked-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louakedwayl)
-[![Mail](https://img.shields.io/badge/louakedwayl@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:louakedwayl@protonmail.com)
-[![Root-Me](https://img.shields.io/badge/Root--Me-While-black?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/louakedwayl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wayl_Louaked-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louakedwayl)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-louakedwayl-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:louakedwayl@protonmail.com)
+[![Root-Me](https://img.shields.io/badge/Root--Me-While-000000?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/louakedwayl)
 </div>
