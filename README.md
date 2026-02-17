@@ -8,4 +8,4 @@
 ## 📬 CONTACT ME
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wayl_Louaked-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louakedwayl)
-[![Gmail](https://img.shields.io/badge/Gmail-ton.louakedwayl@.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louakedwayl@protonmail.com)
+[![Gmail](https://img.shields.io/badge/mail@.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louakedwayl@protonmail.com)
