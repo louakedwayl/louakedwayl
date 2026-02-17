@@ -10,8 +10,6 @@
 
 <br><br>
 
-![Projects](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&duration=1&pause=999999&color=FFFFFF&center=true&width=200&lines=Projects)
-
 </div>
 
 ![Camagru](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&duration=1&pause=999999&color=FFFFFF&center=true&width=150&lines=Camagru)
