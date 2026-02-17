@@ -9,3 +9,8 @@
 [![Root-Me](https://img.shields.io/badge/Root--Me-While-000000?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/louakedwayl)
 
 </div>
+
+## Projects
+
+### Camagru
+![Camagru](./assets/camagru-preview.gif)
